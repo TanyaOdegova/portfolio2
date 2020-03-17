@@ -267,7 +267,10 @@ img.example-image {
 }
 
 /*============= CONTACT SECTION =============*/
-
+.contacttitle {
+padding: 1rem;
+color: #fff;
+}
 footer {
   margin-bottom: 0rem;
   background-color: #53595f;
